@@ -1,3 +1,3 @@
-# Ejercicio 7 [Incompleto]
+# Ejercicio 20 [Incompleto]
 
 ![Enunciado](̣Enunciado.png)
